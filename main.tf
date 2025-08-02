@@ -235,3 +235,6 @@ resource "aws_instance" "LoginPage" {
     Name = "LoginPage"
   }
 }
+
+
+## New lines added here for testing
