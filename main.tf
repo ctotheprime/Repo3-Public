@@ -235,3 +235,7 @@ resource "aws_instance" "LoginPage" {
     Name = "LoginPage"
   }
 }
+
+## New line added by external user - stan
+## New line added by external user - stan
+## New line added by external user - stan
