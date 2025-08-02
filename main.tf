@@ -238,3 +238,5 @@ resource "aws_instance" "LoginPage" {
 
 
 ## New lines added here for testing
+
+## New line added by external user - stan
